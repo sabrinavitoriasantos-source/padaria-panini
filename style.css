@@ -12,13 +12,13 @@
                  font-family: Arial, Helvetica, sans-serif;
                      line-height: 1.6;
                          margin: 0;
-                             color: #3B2A1E;             /* marrom escuro (texto) */
+                             color: #ff69b4;             /* marrom escuro (texto) */
                                  background: color #9400d3;;  /* creme (fundo) */
                                  }
 
                                  /* ===== Cabeçalho ===== */
                                  .cabecalho {
-                                     background-color: #A0521A;  /* âmbar escuro — texto branco tem contraste AA */
+                                     background-color: #4B0082;  /* âmbar escuro — texto branco tem contraste AA */
                                          color: #FFFFFF;
                                              text-align: center;
                                                  padding: 24px 16px;
@@ -105,7 +105,7 @@
                                                                                                                                                                                                      }
 
                                                                                                                                                                                                      .tabela-cardapio thead {
-                                                                                                                                                                                                         background-color: #A0521A;
+                                                                                                                                                                                                         background-color: #4b0082;
                                                                                                                                                                                                              color: #FFFFFF;
                                                                                                                                                                                                              }
 
